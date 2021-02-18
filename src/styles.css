@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.images {
+  border: 2px solid red;
+  display: flex;
+  justify-content: center;
+}
+.images img {
+  max-width: 100px;
+  padding: 0 10px;
+}
